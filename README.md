@@ -33,7 +33,7 @@ _A project where I delved into the basics of AI decision-making, learning how da
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/siddharth-pandab-1aa860371)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/siddharth-pandab-1aa860371/)
 
 ---
 
